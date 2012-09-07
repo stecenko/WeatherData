@@ -1,0 +1,5 @@
+D:\VisualStudio\WeatherData\WeatherData\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VisualStudio\WeatherData\WeatherData\bin\Debug\WeatherData.exe
+D:\VisualStudio\WeatherData\WeatherData\bin\Debug\WeatherData.pdb
+D:\VisualStudio\WeatherData\WeatherData\obj\x86\Debug\WeatherData.exe
+D:\VisualStudio\WeatherData\WeatherData\obj\x86\Debug\WeatherData.pdb
